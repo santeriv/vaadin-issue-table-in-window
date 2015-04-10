@@ -1,0 +1,16 @@
+derby.log
+.classpath
+.project
+.factorypath
+.settings/
+.bpmn/
+*.orig
+target/
+test-output/
+*~
+web/log4j*.*
+.springBeans
+*rebel*.xml
+.idea/
+*.iml
+
