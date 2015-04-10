@@ -2,4 +2,4 @@
 '''
 mvn tomcat7:run-war -Ptomcat
 '''
-* open http://localhost:18080/13506
+* open http://localhost:18080/window-table/
